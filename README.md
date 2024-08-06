@@ -1,3 +1,3 @@
-# Repositório Remoto
+# Repositório Remoto Deppis do Clone
 
-Descrição inserida no repositório antes do clone.
+Descrição inserida no repositório depois do clone.
